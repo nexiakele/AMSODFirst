@@ -4,6 +4,8 @@
 
 # 代码 数据库下载链接 (Download Link)
 https://pan.baidu.com/s/1id-M4H_j5k1v9mUUy1ruPw?pwd=3up9
+通过网盘分享的文件：AMSOD1
+链接: https://pan.baidu.com/s/1bFlorRWQH2U-nQ39XkwUvA?pwd=56vh 提取码: 56vh
 
 # 论文引用
 @ARTICLE{2024arXiv240503352H,
